@@ -33,20 +33,17 @@
 			<groupId>com.ocpsoft</groupId>
 			<artifactId>prettyfaces-jsf2</artifactId>
 			<version>3.3.3</version>
-		</dependency>
-
-		<!-- chartistjsf -->
-		<dependency>
-			<groupId>org.chartistjsf</groupId>
-			<artifactId>chartistjsf</artifactId>
-			<version>3.0</version>			
-		</dependency>
-
-        <dependency>
+		</dependency>  
+	    <dependency>
             <groupId>org.glassfish</groupId>
             <artifactId>javax.faces</artifactId>
             <version>2.2.7</version>
         </dependency>
+<dependency>
+	<groupId>org.chartistjsf</groupId>
+	<artifactId>ChartistJSF</artifactId>
+	<version>3.0</version>		
+</dependency>
 
 		<!-- Gson -->
 		<dependency>
