@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ChartistJSF-ShowCases:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="ChartistJSF-ShowCases-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="ChartistJSF-ShowCases:war exploded" />
+    </root>
+  </artifact>
+</component>
